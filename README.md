@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Mariska Rai</h1>
 <h3 align="center">A passionate Fin-Tech Enthusiast</h3>
 
-- 🌱 I’m a current student at the University of Kansas studying Computer Science and minor in Business
+- 🌱 I’m a current sophomore at the University of Kansas studying Computer Science with a minor in Business
 
 - Passionate about the intersection of **Technology and Finance**
 
