@@ -11,7 +11,7 @@
 
 - Currently learning about API integration and Automations
 
-- I completed Web-Development through Code-Path (https://clay-saving-bear-272.vscodeedu.app/)
+- I completed Web-Development through Code-Path 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
