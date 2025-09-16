@@ -5,14 +5,11 @@
 <h1 align="center">Hi 👋, I'm Mariska Rai</h1>
 <h3 align="center">A passionate Fin-Tech Enthusiast</h3>
 
-- 🌱 I’m a current sophomore at the University of Kansas studying Computer Science with a minor in Business
+- 🌱 I’m a current Junior at the University of Kansas studying Computer Science with a minor in Business
 
 - Passionate about the intersection of **Technology and Finance**
 
 - Currently learning about API integration and Automations
-
-- I completed Web-Development through Code-Path 
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mariska rai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mariska rai" height="30" width="40" /></a>
