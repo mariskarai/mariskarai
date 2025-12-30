@@ -2,10 +2,10 @@
 <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=100&color=8ECAE6&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hello+Hello" width="70%" />
 
 
-<h1 align="center">Hi 👋, I'm Mariska Rai</h1>
+<h1 align="center">Hi, I'm Mariska Rai</h1>
 <h3 align="center">A passionate Fin-Tech Enthusiast</h3>
 
-- 🌱 I’m a current Junior at the University of Kansas studying Computer Science with a minor in Business
+-  I’m a current Junior at the University of Kansas studying Computer Science with a minor in Business
 
 - Passionate about the intersection of **Technology and Finance**
 
